@@ -1,1 +1,1 @@
-"# fullstack-helsinki-university" 
+# fullstack-helsinki-university
